@@ -1,8 +1,6 @@
 # Excel-Sales-Analysis-Dashboard
 Excel sales analysis project using Pivot Tables, KPIs, charts, and dashboard.
 
-# Excel Sales Analysis Dashboard
-
 ## Project Overview
 This project analyzes sales data using Microsoft Excel to identify trends, regional performance, and category-wise contribution.
 
