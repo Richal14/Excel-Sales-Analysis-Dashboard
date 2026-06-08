@@ -32,3 +32,7 @@ This project analyzes sales data using Microsoft Excel to identify trends, regio
 ## Files Included
 - Sales_Analysis_Dashboard.xlsx
 - Sales_Analysis_Dataset.csv
+
+## Dashboard Overview
+<img width="985" height="619" alt="image" src="https://github.com/user-attachments/assets/3169fd9e-ec46-4d05-a620-85861282fdf4" />
+
